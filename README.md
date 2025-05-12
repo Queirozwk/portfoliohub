@@ -1,3 +1,3 @@
 # portfolio
-Nesse portfólio, estão inseridos alguns projetos meus.
-clique aqui para acessar os meus projetos: https://github.com/Queirozwk/projects/tree/master
+Nesse portfólio, estão inseridos alguns projetos meus. 
+Clique aqui para acessá-los: https://github.com/Queirozwk/projects/tree/master
